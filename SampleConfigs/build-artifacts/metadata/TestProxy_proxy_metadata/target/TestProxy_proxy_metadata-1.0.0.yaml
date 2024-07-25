@@ -1,0 +1,10 @@
+---
+key: "TestProxy_proxy-1.0.0"
+name : "TestProxy"
+displayName : "TestProxy"
+description: "Sample Proxy Service"
+version: "1.0.0"
+serviceUrl: "https://{MI_HOST}:{MI_PORT}/services/TestProxy"
+definitionType: "WSDL1"
+securityType: "BASIC"
+mutualSSLEnabled: false
